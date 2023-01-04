@@ -6,4 +6,4 @@ Para testar é muito simples, basta fazer o clone e abrir o arquivo html no nave
 
 Clique para inserir uma bolinha na tela, control z para desfazer e control y para refazer.
 
-https://github.com/julianosouzza90/clickBall-arrays-and-dom/blob/main/Captura%20de%20tela%20de%202023-01-04%2018-29-05.png
+<img src="https://github.com/julianosouzza90/clickBall-arrays-and-dom/blob/main/Captura%20de%20tela%20de%202023-01-04%2018-29-05.png">
